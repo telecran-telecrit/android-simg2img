@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-PREFIX  ?= /usr/local
+PREFIX  ?= /usr
 
 CXX      ?= g++
 LD       ?= g++
